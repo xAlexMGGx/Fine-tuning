@@ -11,6 +11,9 @@ In this repository can be found the following main files/directories:
 - results/: Contains the results of the evaluation.
 - instruction_following_eval/: Contains the responses of the model to the IFEval prompts.
 
+## Best model
+[Link](https://upcomillas-my.sharepoint.com/:f:/r/personal/202113492_alu_comillas_edu/Documents/Fine-tuning_NLP_II?csf=1&web=1&e=PNdWPj) to best_model
+
 ## Authors
 [Alejandro Martínez de Guinea García](https://github.com/xAlexMGGx)
 
