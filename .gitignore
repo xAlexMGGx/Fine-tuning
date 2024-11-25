@@ -1,0 +1,12 @@
+# Folders
+models/*
+!models/best_model/checkpoint-100
+Python-3.10.8/
+results/*
+!results/results.txt
+others/
+
+# Files
+*.jsonl
+*.tgz
+*.tgz.1
